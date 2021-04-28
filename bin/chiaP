@@ -3,7 +3,7 @@
 // START ENV
 
 // chia plots params without tempDir and dist Dir
-const plotsParams = 'plots create -k 32 -e -b 4000 -r 8 -u 128 -t';
+const plotsParams = 'plots create -k 32 -e -b 4000 -r 2 -u 128 -t';
 
 const defaultDistDir = `H:\\chia`;
 const defaultTempDir = `D:\\temp\\bbbB`;
